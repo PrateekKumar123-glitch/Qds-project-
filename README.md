@@ -630,3 +630,7 @@ docs/              engineering notes per phase
    the ground truth. `TranscriptStatistics.from_transcript` is *defined* as
    `from_json(t.to_json())`, so the boundary is the code rather than a convention, and a test
    reads the package's own source to assert it never imports `sih141.attacks`.
+
+## Contributors
+
+- [Prateek Kumar](https://github.com/PrateekKumar123-glitch)
